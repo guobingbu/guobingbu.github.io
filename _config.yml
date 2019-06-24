@@ -1,11 +1,11 @@
 # Site settings
-title: 白夜行的狼
-SEOTitle: 白夜行的狼的博客
+title: 虔诚道教徒
+SEOTitle: 虔诚道教徒的博客
 header-img: img/black.jpeg
-email: HaoQ_Chen@163.com
-description: Think Different
-keyword: "白夜行的狼, 个人网站, 个人博客, SLAM, 激光雷达, C++, 机器人"
-url: "https://haoqchen.site"              # your host, for absolute URL
+email: 964404666@qq.com
+description: 举杯邀明月-对影成三人
+keyword: "虔诚道教徒, 个人网站, 个人博客, SLAM, 激光雷达, C++, 机器人"
+url: "https://guobingbu.top"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
@@ -14,10 +14,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     1952114745
-zhihu_username:     HaoQ_Chen
-github_username:    HaoQChen
-CSDN_username:      u013834525
+weibo_username:     明月几时有
+zhihu_username:     千里共婵娟
+github_username:    虔诚道教徒
+CSDN_username:      虔诚道教徒
 #twitter_username:   
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
@@ -68,9 +68,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: a42c8828d9d5c999175f                            #生成的clientID
   clientSecret: 8df4b3d28a93f43b2460355d6a9cc3a0997bb8f5    #生成的clientSecret
-  repo: haoqchen.github.io    #仓库名称
-  owner: HaoQChen    #github用户名
-  admin: HaoQChen
+  repo: GuoBingBu.github.io    #仓库名称
+  owner: GuoBingBu    #github用户名
+  admin: GuoBingBu
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 # Netease settings
