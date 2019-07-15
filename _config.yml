@@ -1,10 +1,10 @@
 # Site settings
-title: 虔诚道教徒
-SEOTitle: 虔诚道教徒的博客
+title: 竹杖芒鞋轻胜马
+SEOTitle: 一蓑烟雨任平生
 header-img: img/black.jpeg
 email: 964404666@qq.com
 description: 举杯邀明月-对影成三人
-keyword: "虔诚道教徒, 个人网站, 个人博客, SLAM, 激光雷达, C++, 机器人"
+keyword: "台湾回归, 个人网站, 个人博客, SLAM, 激光雷达, C++, 机器人"
 url: "https://guobingbu.top"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -16,8 +16,8 @@ future: true
 RSS: false
 weibo_username:     明月几时有
 zhihu_username:     千里共婵娟
-github_username:    虔诚道教徒
-CSDN_username:      虔诚道教徒
+github_username:    举杯邀明月
+CSDN_username:      举杯邀明月
 #twitter_username:   
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
@@ -90,7 +90,7 @@ ga_track_id: 'UA-129699266-1'            # Format: UA-xxxxxx-xx
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "一个感性的工科生"
+sidebar-about-description: "举杯邀明月-对影成三人"
 sidebar-avatar: /img/rabbit.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
